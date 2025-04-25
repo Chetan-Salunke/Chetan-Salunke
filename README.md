@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **chetanbusalunke@gmail.com**
 
-- 📄 Know about my experiences [https://chetan-salunke.github.io/Portfolio/media/RESUME.pdf](https://chetan-salunke.github.io/Portfolio/media/RESUME.pdf)
+- 📄 Know about my experiences [https://chetansalunke.netlify.app/media/ResumeChetanIn.pdf](https://chetansalunke.netlify.app/media/ResumeChetanIn.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
