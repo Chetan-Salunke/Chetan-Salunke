@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ChetanSalunke</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://chetan-salunke.github.io/Portfolio/](https://chetan-salunke.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://chetansalunke.netlify.app/](https://chetansalunke.netlify.app/)
 
 - 📫 How to reach me **chetanbusalunke@gmail.com**
 
